@@ -2,6 +2,9 @@
 
 Welcome to the Pokédex React application! This application allows users to search for a Pokemon by name and displays its details, including its image, type(s), and abilities. The application uses the Pokemon API to fetch the Pokemon data.
 
+## Live at:
+https://junaid-pokedex.netlify.app/
+
 ## Installation
 
 To run this application, follow the below steps:
